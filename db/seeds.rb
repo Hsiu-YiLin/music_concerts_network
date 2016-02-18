@@ -9,6 +9,8 @@
 Concert.create(artist: "HAIM", city: "Chicago", date: "2016-02-21 17:07", price: 40.00, description: "HAIM DESCRIPTION")
 Concert.create(artist: "Rick", city: "Miami", date: "2016-02-05", price: 0,description: "Rick is playing") 
 Concert.create(artist: "Santigold", city: "Austin", date: "2016-05-15 20:00", price: 65.50, description: "DESCRIPTION")
+User.create(name: 'Kyle', email:"kyle@greatguynetwork.com")
+User.create(name: 'Greg', email:"greg@greatguynetwork.com")
 
 # Concert.create(artist:
 
